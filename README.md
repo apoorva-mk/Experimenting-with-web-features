@@ -1,8 +1,10 @@
-*My experiments with web features*
-<br>                          ~M K Apoorva
+**My experiments with web features**
+<br>                          **~M K Apoorva**
 <br>
 :P
 <br>
 <br>
-*Includes*
+**Includes**
+<br>
 -mozilla browser extension
+- 

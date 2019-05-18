@@ -1,7 +1,6 @@
-**My experiments with web features**
+**My experiments with web features :P**
 <br>                          **~M K Apoorva**
 <br>
-:P
 <br>
 <br>
 **Includes**

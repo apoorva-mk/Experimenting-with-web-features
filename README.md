@@ -1,9 +1,9 @@
-**My experiments with web features :P**
-<br>                          **~M K Apoorva**
+**My experiments with web features**
+<br>                         
 <br>
 <br>
 <br>
-**Includes**
+Done till now
 <br>
 -mozilla browser extension
 - 
